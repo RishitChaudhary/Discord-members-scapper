@@ -30,5 +30,4 @@ Like below:
 ![image](https://user-images.githubusercontent.com/109065518/203468476-ca7423d3-206d-459b-b5b0-9a5e75e38523.png)
 
 # 📝 Footnotes
- If your token/main account gets disabled I am not responsible for it, Use these scripts at your own risk.
- 
+ If your token/main account gets disabled I am not responsible for it, Use these scripts at your own risk, this project was just made for learning purposes.
