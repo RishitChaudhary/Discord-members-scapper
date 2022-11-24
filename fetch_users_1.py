@@ -10,9 +10,8 @@ bot._skip_check = lambda x, y: False
 @bot.event
 async def on_ready():
     guild = bot.get_guild(guild_id)
-    print(len(guild.members))
-    member_count = guild.members[0].guild.member_count
-    print(member_count)
+    member_count = len(guild.members)
+    print(F"Currently Online: {member_count}")
 
     members_data_json = {}; members_fetched = 0
     for num in range(0,member_count):
